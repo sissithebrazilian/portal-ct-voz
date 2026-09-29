@@ -1,4 +1,4 @@
-# CT VOZ — Portal de Instrutores
+# CT VOZ - Portal de Instrutores
 
 Aplicação web para apoiar a organização de uma academia de Jiu-Jitsu, centralizando **planejamento de aulas**, **escala de instrutores**, **avisos internos** e **controle de acesso**.
 
