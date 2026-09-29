@@ -6,16 +6,19 @@ O projeto nasceu de uma necessidade real de reduzir a dependência de planilhas 
 
 ## Tecnologias
 
-- React
-- Vite
+
 - JavaScript
 - HTML5
 - CSS3
+
+```Vibe Coding
+- React
+- Vite
 - Supabase Auth
 - Supabase Database
 - Git
 - PWA (Progressive Web App)
-
+```
 ## Funcionalidades
 
 - Autenticação de usuários
