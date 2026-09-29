@@ -11,6 +11,7 @@ O projeto nasceu de uma necessidade real de reduzir a dependência de planilhas 
 - HTML5
 - CSS3
 
+   ## Vibe Coding
 ```Vibe Coding
 - React
 - Vite
